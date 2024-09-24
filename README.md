@@ -79,6 +79,6 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the script:
-fashion_mnist_classification.py
+fashion_mnist_classification.ipynb
 
 
